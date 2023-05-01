@@ -4,7 +4,7 @@ open the modpack link and install with curseforge
 
 modpack -> https://www.curseforge.com/minecraft/modpacks/create-optimized-fabric
 
-download the updater DONT INSTAL with curseforge
+download the updater DONT INSTAL this with curseforge
 
 updater -> https://www.curseforge.com/minecraft/mc-mods/minecraft-mod-updater
 
