@@ -4,9 +4,6 @@ open the modpack link and install with curseforge
 
 modpack -> https://www.curseforge.com/minecraft/modpacks/create-optimized-fabric
 
-download the updater DONT INSTAL this with curseforge
+download the additional mod and install it in the cureforge minecraft mods folder 
 
-updater -> https://www.curseforge.com/minecraft/mc-mods/minecraft-mod-updater
-
-inside the minecraft folder create a folder named "config" and inside that folder create a file named "minecraft-mod-updater.json"
-and open this link and copy everything into the config -> https://raw.githubusercontent.com/NahMee/minimum-craft/main/paste
+additional mod -> https://modrinth.com/mod/spirit/version/tykm7yBk
