@@ -1,0 +1,30 @@
+{
+	"synced": [],
+	
+	"local": [
+		{
+			"id": "644155",
+			"source": "curseforge"
+		},
+		{
+			"id": "spirit",
+			"source": "modrinth"
+		},
+		{
+			"id": "636540",
+			"url": "curseforge"
+		},
+		{
+			"id": "359893",
+			"url": "curseforge"
+		},		
+		{
+			"id": "xaeros-minimap",
+			"url": "modrinth"
+		},		
+		{
+			"id": "xaeros-world-map",
+			"url": "modrinth"
+		}
+	]
+}
